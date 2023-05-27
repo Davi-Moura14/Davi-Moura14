@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, aqui é o Davi. Seja bem-vindo!
+
+Técnico em Informática; 
+Eng. Elétrica.
+
+-> C;
+-> Java;
+-> Python; 
 
 <!--
 **Davi-Moura14/Davi-Moura14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
